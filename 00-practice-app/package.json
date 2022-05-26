@@ -1,5 +1,4 @@
 {
-  "homepage": "https://bmorrissey34.github.io/React-Portfolio-",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +13,7 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
-  
+  "homepage": "https://bmorrissey34.github.io/My-Portfolio-",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
