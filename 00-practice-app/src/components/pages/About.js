@@ -16,10 +16,10 @@ export default function About() {
 
     <div>
       <ul>
-        <li>🔭 I’m currently working on ... finishing my coding bootcamp at Georgia Tech!</li>
-        <li>🌱 I’m currently learning ... React!</li>
+        <li>🔭 I’m currently working on ... Tech News Java API</li>
+        <li>🌱 I’m currently learning ... Java & AWS</li>
         <li>💹 Proficient in ... HTML, CSS, Javascript</li>
-        <li>💹 Addtional Tools - GraphQL, React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, MySQL2, Sequelize, jquery, Handlebars</li>
+        <li>💹 Additional Tools - GraphQL, React, Bootstrap, Materialize, Node.js, express.js, express-sessions, SQL, Thymeleaf, Spring boot, Handlebars</li>
         <li>💬 Ask me about ... My Cat 🐈</li>
         <li>📫 How to reach me: brendanmorrissey34@gmail.com</li>
         <li>⚡ Fun fact: ... I love to hike and backpack!</li>

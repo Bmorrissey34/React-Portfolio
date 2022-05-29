@@ -1,5 +1,5 @@
 import React from 'react';
-import resumeOne from '../assets/images/Brendan-Resume+5-16.pdf'
+import resumeOne from '../assets/images/newResume.pdf'
 
 export default function Resume() {
   return (
